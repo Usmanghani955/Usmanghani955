@@ -28,8 +28,3 @@ Python | FastAPI | LangChain | API Integration | n8n
 - RAG systems and retrieval pipelines
 - AI agent design and orchestration
 - E-commerce AI solutions
-
----
-
-## GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usmanghani955&show_icons=true&theme=dark)
