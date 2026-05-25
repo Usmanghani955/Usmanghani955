@@ -7,7 +7,7 @@ AI Engineer | LLM Integration | RAG Systems | AI Agents
 ## About
 
 AI Engineer working in the e-commerce industry, focused on integrating 
-large language models into real business software. I build RAG pipelines, 
+LLM's into real business software. I build RAG pipelines, 
 AI agents, and backend services using Python and FastAPI, and design 
 workflow automations using n8n.
 
@@ -19,7 +19,7 @@ Contact: osmanghani589@gmail.com
 
 ## Tech Stack
 
-Python | FastAPI | LangChain | OpenAI API | Claude API | Gemini API | n8n
+Python | FastAPI | LangChain | API Integration | n8n
 
 ---
 
